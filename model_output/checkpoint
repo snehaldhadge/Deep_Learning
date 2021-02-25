@@ -1,0 +1,2 @@
+model_checkpoint_path: "regression_baseline"
+all_model_checkpoint_paths: "regression_baseline"
